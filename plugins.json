@@ -225,12 +225,12 @@
 			"freePlugin": "true"
 		},
 		{
-		"name": "Skript Addon: Vixio",  
-		"desc": "Create Custom Discord Bots",  
-		"jarName": "Vixio-1.1.2.jar",  
-		"configName": "Vixio"  
-		"requiredRank": "4",
-		"freePlugin": "true"
+			"name": "Skript Addon: Vixio",  
+			"desc": "Create Custom Discord Bots",  
+			"jarName": "Vixio-1.1.2.jar",  
+			"configName": "Vixio"  
+			"requiredRank": "4",
+			"freePlugin": "true"
 		},
 		{
 			"name": "Ultra Cosmetics",
